@@ -6,15 +6,13 @@
                        xmlns:xlink="http://www.w3.org/1999/xlink" 
                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NamedLayer>
-    <Name>default_point</Name>
+    <Name>nokta</Name>
     <UserStyle>
       <Title>Default Point</Title>
-      <Abstract>A sample style that draws a point</Abstract>
       <FeatureTypeStyle>
         <Rule>
           <Name>rule1</Name>
           <Title>İller</Title>
-          <Abstract>A 6 pixel square with a red fill and no stroke</Abstract>
           <MinScaleDenominator>1</MinScaleDenominator>
           <MaxScaleDenominator>10000000</MaxScaleDenominator>
           <PointSymbolizer>
