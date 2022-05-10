@@ -1,0 +1,17 @@
+<layer>
+  <name>gis_osm_pois_free_1_ist_muzeler</name>
+  <id>LayerInfoImpl--a4edee7:1805c1072e5:-7f99</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--a4edee7:1805c1072e5:-7f64</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--a4edee7:1805c1072e5:-7f9a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-25 17:14:12.723 UTC</dateCreated>
+  <dateModified>2022-04-25 17:32:08.193 UTC</dateModified>
+</layer>

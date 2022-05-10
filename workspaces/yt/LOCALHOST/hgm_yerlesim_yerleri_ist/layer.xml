@@ -1,0 +1,16 @@
+<layer>
+  <name>hgm_yerlesim_yerleri_ist</name>
+  <id>LayerInfoImpl--a4edee7:1805c1072e5:-7fa3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ff1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--a4edee7:1805c1072e5:-7fa4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-25 16:58:53.725 UTC</dateCreated>
+</layer>

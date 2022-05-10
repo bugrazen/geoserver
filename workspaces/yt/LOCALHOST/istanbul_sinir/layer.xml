@@ -1,0 +1,17 @@
+<layer>
+  <name>istanbul_sinir</name>
+  <id>LayerInfoImpl-4e972b1e:18042e902ff:-7fe7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-4e972b1e:18042e902ff:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 19:04:57.202 UTC</dateCreated>
+  <dateModified>2022-04-20 19:02:01.690 UTC</dateModified>
+</layer>

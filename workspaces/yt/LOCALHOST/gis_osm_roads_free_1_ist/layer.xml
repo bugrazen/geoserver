@@ -1,0 +1,16 @@
+<layer>
+  <name>gis_osm_roads_free_1_ist</name>
+  <id>LayerInfoImpl-4e972b1e:18042e902ff:-7ff5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ff6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-4e972b1e:18042e902ff:-7ff6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 17:49:52.528 UTC</dateCreated>
+</layer>

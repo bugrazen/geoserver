@@ -1,0 +1,16 @@
+<layer>
+  <name>gis_osm_buildings_a_free_1_ist</name>
+  <id>LayerInfoImpl-4e972b1e:18042e902ff:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7716e8e8:180377896ed:-7eed</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-4e972b1e:18042e902ff:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 17:46:26.68 UTC</dateCreated>
+</layer>

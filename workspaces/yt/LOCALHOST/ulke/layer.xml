@@ -1,0 +1,16 @@
+<layer>
+  <name>ulke</name>
+  <id>LayerInfoImpl-7716e8e8:180377896ed:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ff8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7716e8e8:180377896ed:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-17 12:23:35.67 UTC</dateCreated>
+</layer>

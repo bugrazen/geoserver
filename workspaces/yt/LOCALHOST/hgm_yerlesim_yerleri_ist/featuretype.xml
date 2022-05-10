@@ -1,0 +1,56 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--a4edee7:1805c1072e5:-7fa4</id>
+  <name>hgm_yerlesim_yerleri_ist</name>
+  <nativeName>hgm_yerlesim_yerleri_ist</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--76fa97c1:18012b95d97:-7ffe</id>
+  </namespace>
+  <title>hgm_yerlesim_yerleri_ist</title>
+  <keywords>
+    <string>features</string>
+    <string>hgm_yerlesim_yerleri_ist</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>28.2384090423584</minx>
+    <maxx>29.621339797973633</maxx>
+    <miny>40.83112716674805</miny>
+    <maxy>41.18401336669922</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>28.2384090423584</minx>
+    <maxx>29.621339797973633</maxx>
+    <miny>40.83112716674805</miny>
+    <maxy>41.18401336669922</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-37a58db8:18012c1f9d0:-7ff0</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,16 @@
+<layer>
+  <name>deniz_nokta</name>
+  <id>LayerInfoImpl-78da9644:1806bd0defb:-7f1a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-78da9644:1806bd0defb:-7f1b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-05-05 20:49:32.844 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>gis_osm_pois_a_free_1_ist</name>
+  <id>LayerInfoImpl--a4edee7:1805c1072e5:-7f9e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--a4edee7:1805c1072e5:-7ee4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--a4edee7:1805c1072e5:-7f9f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-25 17:02:11.966 UTC</dateCreated>
+  <dateModified>2022-04-25 17:58:37.176 UTC</dateModified>
+</layer>

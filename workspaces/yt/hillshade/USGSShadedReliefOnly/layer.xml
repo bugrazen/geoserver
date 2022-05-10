@@ -1,0 +1,17 @@
+<layer>
+  <name>USGSShadedReliefOnly</name>
+  <id>LayerInfoImpl-78da9644:1806bd0defb:-7fa4</id>
+  <type>WMTS</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="wmtsLayer">
+    <id>WMTSLayerInfoImpl-78da9644:1806bd0defb:-7fa5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-05-05 19:40:48.653 UTC</dateCreated>
+  <dateModified>2022-05-05 19:43:21.51 UTC</dateModified>
+</layer>

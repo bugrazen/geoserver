@@ -1,0 +1,16 @@
+<layer>
+  <name>istanbul_bogazi</name>
+  <id>LayerInfoImpl-78da9644:1806bd0defb:-7f06</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-78da9644:1806bd0defb:-7f0b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-78da9644:1806bd0defb:-7f07</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-05-05 21:01:45.474 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>gis_osm_water_free_ist</name>
+  <id>LayerInfoImpl--a4edee7:1805c1072e5:-7f1b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--a4edee7:1805c1072e5:-7f1c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-25 17:42:44.447 UTC</dateCreated>
+  <dateModified>2022-04-25 17:48:15.927 UTC</dateModified>
+</layer>

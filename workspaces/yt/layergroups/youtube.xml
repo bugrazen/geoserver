@@ -1,0 +1,97 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-7716e8e8:180377896ed:-7fd4</id>
+  <name>youtube</name>
+  <mode>SINGLE</mode>
+  <title>youtube</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--76fa97c1:18012b95d97:-7fff</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-37a58db8:18012c1f9d0:-7feb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-4e972b1e:18042e902ff:-7fe7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--a4edee7:1805c1072e5:-7f1b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-4e972b1e:18042e902ff:-7ff9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--a4edee7:1805c1072e5:-7f9e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-4e972b1e:18042e902ff:-7ffc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-4e972b1e:18042e902ff:-7ff5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--a4edee7:1805c1072e5:-7fa3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--a4edee7:1805c1072e5:-7f99</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-78da9644:1806bd0defb:-7f1a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-78da9644:1806bd0defb:-7f06</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffa</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--a4edee7:1805c1072e5:-7ee4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-7716e8e8:180377896ed:-7eed</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ff6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ff1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--a4edee7:1805c1072e5:-7f64</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37a58db8:18012c1f9d0:-7ffe</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-78da9644:1806bd0defb:-7f0b</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>3115508.0</minx>
+    <maxx>3330297.767300006</maxx>
+    <miny>4959706.4088</miny>
+    <maxy>5118383.999999978</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-17 12:53:15.87 UTC</dateCreated>
+  <dateModified>2022-05-05 21:02:45.75 UTC</dateModified>
+</layerGroup>
