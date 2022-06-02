@@ -1,8 +1,0 @@
-Kurulum aşamaları
-
--java jdk kurulumu
-
--ortam değişkenlerine JAVA_HOME adıyla yeni bir değişken atanarak kurduğumuz JDK' nın dosya yolu yazılmalıdır,
-
--geoserver kurulumu;
-  kurulum esnasında kullanıcı adı ve şifremizi not etmeyi unutmayın!!!
