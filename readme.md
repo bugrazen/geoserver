@@ -3,7 +3,7 @@ GeoServer, coğrafi verileri paylaşmak için açık kaynaklı bir sunucudur.
 
 
 
-Kurulum videosuna aşağıdaki linkten ulaşabilirsiniz
+**Kurulum videosuna aşağıdaki linkten ulaşabilirsiniz**
 
       https://www.youtube.com/watch?v=nu3Cy7pBWcI&list=PLc1Ar6Ju140L2-DEc30-9uMfhYK1w-Ytn
 
