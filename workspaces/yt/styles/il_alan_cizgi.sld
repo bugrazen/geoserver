@@ -18,11 +18,15 @@
             </se:Stroke>
           </se:PolygonSymbolizer>
         </se:Rule> 
-             <se:Rule>
+        <se:Rule>
           <se:Name>alan</se:Name>
           <se:MinScaleDenominator>1</se:MinScaleDenominator>
           <se:MaxScaleDenominator>75000</se:MaxScaleDenominator>
           <se:PolygonSymbolizer>
+            <se:Fill>
+              <se:SvgParameter name="fill">#B2BEB5</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">0.31</se:SvgParameter>
+              </se:Fill>
             <se:Stroke>
               <se:SvgParameter name="stroke">#808080</se:SvgParameter>
               <se:SvgParameter name="stroke-width">0.5</se:SvgParameter>
