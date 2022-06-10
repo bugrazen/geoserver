@@ -3,11 +3,11 @@
   <NamedLayer>
     <se:Name>nehir</se:Name>
     <UserStyle>
-      <se:Name>nehirler</se:Name>
+      <se:Name>nehir</se:Name>
       <se:FeatureTypeStyle>
         <se:Rule>
           <se:Name>Single symbol</se:Name>
-           <se:MaxScaleDenominator>2000000</se:MaxScaleDenominator>
+           <se:MaxScaleDenominator>250000</se:MaxScaleDenominator>
           <se:LineSymbolizer>
             <se:Stroke>
               <se:SvgParameter name="stroke">#9abff8</se:SvgParameter>
@@ -16,8 +16,7 @@
               <se:SvgParameter name="stroke-linecap">round</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
-        </se:Rule>
-   
+        </se:Rule>   
       </se:FeatureTypeStyle>
     </UserStyle>
   </NamedLayer>
