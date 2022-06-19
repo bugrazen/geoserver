@@ -56,7 +56,7 @@
           </se:PolygonSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>yerleþim yerleri</se:Name>
+          <se:Name>yerleÃ¾im yerleri</se:Name>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
               <ogc:PropertyName>fclass</ogc:PropertyName>
@@ -68,7 +68,7 @@
           <se:PolygonSymbolizer>           
             <se:Fill>
               <se:SvgParameter name="fill">#fdf1ff</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">0.5</se:SvgParameter>
             </se:Fill>
           </se:PolygonSymbolizer>
         </se:Rule>
