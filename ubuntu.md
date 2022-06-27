@@ -49,3 +49,17 @@ cd /var/www/geoserver
 ```
 ./bin/startup.sh
 ```
+<b>Supervisor</b>
+```
+[program:geoserver]
+command=sh ./bin/startup.sh
+directory=/var/www/geoserver
+autorestart=true
+redirect_stderr=true
+stdout_logfile=/var/www/geoserver/logs/geoservice.log
+stdout_logfile_maxbytes=500MB
+stdout_logfile_backups=50
+stdout_capture_maxbytes=1MB
+stdout_events_enabled=false
+loglevel=warn
+```
