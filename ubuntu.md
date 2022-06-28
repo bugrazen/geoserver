@@ -15,11 +15,11 @@ sudo apt install unzip
 ```
 <b>3. Adım</b>
 ```
-sudo mkdir -p /var/www/geoserver
+sudo mkdir -p /usr/share/geoserver
 ```
 <b>4. Adım</b>
 ```
-cd /var/www/geoserver
+cd /usr/share/geoserver
 ```
 <b>5. Adım</b>
 ```
@@ -31,7 +31,7 @@ sudo unzip geoserver-2.21.0-bin.zip
 ```
 <b>7. Adım</b>
 ```
-echo "export GEOSERVER_HOME=/var/www/geoserver" >> ~/.profile
+echo "export GEOSERVER_HOME=/usr/share/geoserver" >> ~/.profile
 ```
 <b>8. Adım</b>
 ```
@@ -43,7 +43,7 @@ sudo -u root -i
 ```
 <b>10. Adım</b>
 ```
-cd /var/www/geoserver
+cd /usr/share/geoserver
 ```
 <b>11. Adım</b>
 ```
@@ -53,10 +53,10 @@ cd /var/www/geoserver
 ```
 [program:geoserver]
 command=sh ./bin/startup.sh
-directory=/var/www/geoserver
+directory=/usr/share/geoserver
 autorestart=true
 redirect_stderr=true
-stdout_logfile=/var/www/geoserver/logs/geoservice.log
+stdout_logfile=/usr/share/geoserver/logs/geoservice.log
 stdout_logfile_maxbytes=500MB
 stdout_logfile_backups=50
 stdout_capture_maxbytes=1MB
