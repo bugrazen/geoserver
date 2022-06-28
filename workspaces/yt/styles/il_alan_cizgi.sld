@@ -10,6 +10,10 @@
           <se:MinScaleDenominator>75001</se:MinScaleDenominator>
           <se:MaxScaleDenominator>2500000</se:MaxScaleDenominator>
           <se:PolygonSymbolizer>
+            <se:Fill>
+              <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">1</se:SvgParameter>
+            </se:Fill>
             <se:Stroke>
               <se:SvgParameter name="stroke">#808080</se:SvgParameter>
               <se:SvgParameter name="stroke-width">0.5</se:SvgParameter>
