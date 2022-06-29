@@ -32,23 +32,17 @@ sudo unzip geoserver-2.21.0-bin.zip
 <b>7. Adım</b>
 ```
 echo "export GEOSERVER_HOME=/usr/share/geoserver" >> ~/.profile
+. ~/.profile
 ```
 <b>8. Adım</b>
 ```
-. ~/.profile
+sudo chown -R USER_NAME /usr/share/geoserver/
 ```
 <b>9. Adım</b>
 ```
-sudo -u root -i
-```
-<b>10. Adım</b>
-```
-cd /usr/share/geoserver
-```
-<b>11. Adım</b>
-```
 ./bin/startup.sh
 ```
+-----------
 <b>Supervisor</b>
 ```
 [program:geoserver]
