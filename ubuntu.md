@@ -1,6 +1,10 @@
 ## GeoServer uygulamasını Ubuntu' da kurmak için gereken adımlar
 
-#### [Kurulum videosu için tıklayınız](https://www.youtube.com/watch?v=ct4HVvTLoKA)
+|  | |
+|-----------|-------------|
+| ![geoserver_ubuntu_2](https://user-images.githubusercontent.com/95212909/177167924-a93c12df-4f73-49c6-85e9-f016a8e49e6b.png) | [Ubuntu için kurulum videosuna buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=ct4HVvTLoKA) |
+
+
 
 -----
 
