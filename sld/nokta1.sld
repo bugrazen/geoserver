@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="windows-1251"?>
 <StyledLayerDescriptor version="1.0.0" 
                        xsi:schemaLocation="http://www.opengis.net/sld StyledLayerDescriptor.xsd" 
                        xmlns="http://www.opengis.net/sld" 
@@ -11,8 +11,7 @@
       <Title>Default Point</Title>
       <FeatureTypeStyle>
         <Rule>
-          <Name>rule1</Name>
-          <Title>iller</Title>
+          <Name>nokta1</Name>
           <MinScaleDenominator>1</MinScaleDenominator>
           <MaxScaleDenominator>10000000</MaxScaleDenominator>
           <PointSymbolizer>
@@ -32,7 +31,7 @@
           </PointSymbolizer>
           <TextSymbolizer>
             <Label>         
-              <ogc:PropertyName>yeradi</ogc:PropertyName>
+              <ogc:PropertyName>"KOLON ADI"</ogc:PropertyName>
             </Label>
             <Font>
               <CssParameter name="font-family">Arial</CssParameter>
@@ -42,10 +41,6 @@
             </Font>
             <LabelPlacement>
               <PointPlacement>
-                <AnchorPoint>
-                  <AnchorPointX>0</AnchorPointX>
-                  <AnchorPointY>0</AnchorPointY>
-                </AnchorPoint>
                 <Displacement>
                   <DisplacementX>0</DisplacementX>
                   <DisplacementY>10</DisplacementY>
