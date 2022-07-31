@@ -12,7 +12,7 @@
       <FeatureTypeStyle>
         <Rule>
           <Name>rule1</Name>
-          <Title>İller</Title>
+          <Title>iller</Title>
           <MinScaleDenominator>1</MinScaleDenominator>
           <MaxScaleDenominator>10000000</MaxScaleDenominator>
           <PointSymbolizer>
