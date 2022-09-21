@@ -32,7 +32,7 @@
             </Label>
             <Font>
               <CssParameter name="font-family">Lucida Sans</CssParameter>
-              <CssParameter name="font-size"> 15 </CssParameter>
+              <CssParameter name="font-size">15</CssParameter>
               <CssParameter name="font-style">bold</CssParameter>
             </Font>
             <LabelPlacement>
@@ -43,15 +43,6 @@
             <Fill>
               <CssParameter name="fill">#000000</CssParameter>
             </Fill>
-            <!-- <Graphic>
-            <Mark>
-                <WellKnownName>square</WellKnownName>
-                <Stroke>
-                  <CssParameter name="stroke">#000000</CssParameter>
-                  <CssParameter name="stroke-width">2</CssParameter>
-                </Stroke>
-              </Mark> 
-            </Graphic>-->
             <VendorOption name="followLine">true</VendorOption>                   
             <VendorOption name="maxAngleDelta">60</VendorOption>
             <VendorOption name="underlineText">false</VendorOption>
