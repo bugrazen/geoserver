@@ -23,7 +23,7 @@
             <Stroke>
               <CssParameter name="stroke">#0A93FC</CssParameter>
               <CssParameter name="stroke-width">20</CssParameter>
-              <CssParameter name="stroke-linejoin">round</CssParameter>
+              <CssParameter name="stroke-linejoin">butt</CssParameter>
               <CssParameter name="stroke-linecap">round</CssParameter>
             </Stroke>
           </LineSymbolizer>
@@ -56,11 +56,6 @@
             <VendorOption name="followLine">true</VendorOption>                   
             <VendorOption name="maxAngleDelta">60</VendorOption>
             <VendorOption name="underlineText">false</VendorOption>
-            <VendorOption name="graphic-resize">stretch</VendorOption>
-            <VendorOption name="graphic-margin">3</VendorOption>
-            <VendorOption name="conflictResolution">true</VendorOption>
-            <VendorOption name="spaceAround">10</VendorOption>
-            <VendorOption name="maxDisplacement">100</VendorOption>
             <VendorOption name="repeat">1000</VendorOption>
           </TextSymbolizer>
         </Rule>
