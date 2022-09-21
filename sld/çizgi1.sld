@@ -23,7 +23,6 @@
             <Stroke>
               <CssParameter name="stroke">#0A93FC</CssParameter>
               <CssParameter name="stroke-width">20</CssParameter>
-              <CssParameter name="stroke-linejoin">butt</CssParameter>
               <CssParameter name="stroke-linecap">round</CssParameter>
             </Stroke>
           </LineSymbolizer>
