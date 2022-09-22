@@ -8,7 +8,7 @@
   <NamedLayer>
     <Name></Name>
     <UserStyle>
-      <Title>kkn</Title>
+      <Title>nehir</Title>
       <FeatureTypeStyle>
         <Rule>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
