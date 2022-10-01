@@ -63,7 +63,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="https://wiki.openstreetmap.org/w/images/a/a8/Amenity_university.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="/Amenity_university.svg" />
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>25</Size>
