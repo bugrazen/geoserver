@@ -5,7 +5,7 @@ ___
  
    ![image](https://user-images.githubusercontent.com/95212909/161382078-455ad269-8650-417a-8ad2-7d7fe7488e54.png)
 ___
- ### `nokta2_svg.sld`
+ ### `nokta2_svg_png.sld`
  
    ![image](https://user-images.githubusercontent.com/95212909/192099137-fb7d3c2f-3ccc-42ba-9f45-29df45ab30ec.png)
 ___
