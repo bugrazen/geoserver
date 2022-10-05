@@ -66,7 +66,7 @@
                 <OnlineResource xlink:type="simple" xlink:href="/university.png" />
                 <Format>image/png</Format>
               </ExternalGraphic>
-              <Size>25</Size>
+              <Size>30</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
