@@ -63,8 +63,8 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="/Amenity_university.svg" />
-                <Format>image/svg+xml</Format>
+                <OnlineResource xlink:type="simple" xlink:href="/university.png" />
+                <Format>image/png</Format>
               </ExternalGraphic>
               <Size>25</Size>
             </Graphic>
