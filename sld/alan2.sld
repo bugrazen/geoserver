@@ -36,7 +36,7 @@
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsBetween>
               <ogc:PropertyName>tuik_nufus</ogc:PropertyName>
-              <ogc:LowerBoundary><ogc:Literal>646608</ogc:Literal></ogc:LowerBoundary>
+              <ogc:LowerBoundary><ogc:Literal>646609</ogc:Literal></ogc:LowerBoundary>
               <ogc:UpperBoundary><ogc:Literal>1575226</ogc:Literal></ogc:UpperBoundary>
             </ogc:PropertyIsBetween>
           </ogc:Filter>
@@ -59,7 +59,7 @@
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsBetween>
               <ogc:PropertyName>tuik_nufus</ogc:PropertyName>
-              <ogc:LowerBoundary><ogc:Literal>1575226</ogc:Literal></ogc:LowerBoundary>
+              <ogc:LowerBoundary><ogc:Literal>1575227</ogc:Literal></ogc:LowerBoundary>
               <ogc:UpperBoundary><ogc:Literal>3147818</ogc:Literal></ogc:UpperBoundary>
             </ogc:PropertyIsBetween>
           </ogc:Filter>
@@ -82,7 +82,7 @@
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsBetween>
               <ogc:PropertyName>tuik_nufus</ogc:PropertyName>
-              <ogc:LowerBoundary><ogc:Literal>3147818</ogc:Literal></ogc:LowerBoundary>
+              <ogc:LowerBoundary><ogc:Literal>3147819</ogc:Literal></ogc:LowerBoundary>
               <ogc:UpperBoundary><ogc:Literal>5747325</ogc:Literal></ogc:UpperBoundary>
             </ogc:PropertyIsBetween>
           </ogc:Filter>
@@ -105,13 +105,13 @@
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsBetween>
               <ogc:PropertyName>tuik_nufus</ogc:PropertyName>
-              <ogc:LowerBoundary><ogc:Literal>5747325</ogc:Literal></ogc:LowerBoundary>
+              <ogc:LowerBoundary><ogc:Literal>5747326</ogc:Literal></ogc:LowerBoundary>
               <ogc:UpperBoundary><ogc:Literal>15840900</ogc:Literal></ogc:UpperBoundary>
             </ogc:PropertyIsBetween>
           </ogc:Filter>
           <se:PolygonSymbolizer>
             <se:Fill>
-              <se:SvgParameter name="fill">#9b1f1b</se:SvgParameter>
+              <se:SvgParameter name="fill">#730a0f</se:SvgParameter>
             </se:Fill>
             <se:Stroke>
               <se:SvgParameter name="stroke">#ffffff</se:SvgParameter>
