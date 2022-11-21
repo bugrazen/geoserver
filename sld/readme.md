@@ -16,3 +16,7 @@ ___
  ### `alan1.sld`
  
    ![alan1 sld](https://user-images.githubusercontent.com/95212909/203132923-cb9e27df-e09c-4fb9-9b10-4bce671d84d5.jpg)
+___
+ ### `alan2.sld`
+ 
+   ![alan2 sld](https://user-images.githubusercontent.com/95212909/203136727-b96cf85b-49f6-475a-b448-66dba1fbe216.jpg)
