@@ -19,4 +19,4 @@ ___
 ___
  ### `alan2.sld`
  
-   ![alan2 sld](https://user-images.githubusercontent.com/95212909/203136727-b96cf85b-49f6-475a-b448-66dba1fbe216.jpg)
+   ![alan2 sld](https://user-images.githubusercontent.com/95212909/203137827-3629abf2-962b-496c-8903-4eedca4474fe.jpg)
