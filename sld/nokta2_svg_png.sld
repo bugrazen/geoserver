@@ -5,7 +5,6 @@
                        xmlns:ogc="http://www.opengis.net/ogc" 
                        xmlns:xlink="http://www.w3.org/1999/xlink" 
                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <!-- a Named Layer is the basic building block of an SLD document -->
   <NamedLayer>
     <Name>default_point</Name>
     <UserStyle>
