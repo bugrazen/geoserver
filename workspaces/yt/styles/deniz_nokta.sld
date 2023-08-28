@@ -89,7 +89,6 @@
             <VendorOption name="maxDisplacement">100</VendorOption>
           </TextSymbolizer>
         </Rule>
-
       </FeatureTypeStyle>
     </UserStyle>
   </NamedLayer>
